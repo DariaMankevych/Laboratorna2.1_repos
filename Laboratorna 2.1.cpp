@@ -13,18 +13,31 @@ int main()
 {
     double Pi = 4 * atan(1.); // число пі
     double a; // вхідний параметр
+<<<<<<< branch_21
    // double z1; // результат обчислення 1-го виразу
+=======
+    //double z1; // результат обчислення 1-го виразу
+>>>>>>> local
     double z2; // результат обчислення 2-го виразу
 
     cout << "a = "; cin >> a;
 
+<<<<<<< branch_21
     //z1 = (sin((Pi / 2) + 3 * a)) / (1 - (sin(3 * a - Pi)));
     z2 = sqrt (((5 * Pi) / 4) + ((3 * a) / 2));
 
+=======
+   // z1 = (sin((Pi / 2) + 3 * a)) / (1 - (sin(3 * a - Pi)));
+    z2 = sqrt (((5 * Pi) / 4) + ((3 * a) / 2));
+>>>>>>> local
 
     cout << endl;
     //cout << "z1 = " << z1 << endl;
     cout << "z2 = " << z2 << endl;
+<<<<<<< branch_21
+=======
+
+>>>>>>> local
     cin.get();
     return 0;
 
