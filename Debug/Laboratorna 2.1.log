@@ -1,3 +1,6 @@
 ﻿  Laboratorna 2.1.cpp
-D:\Даша\Лабораторні\Laboratorna 2.1\Laboratorna 2.1.cpp(17,12): warning C4101: 'z2': unreferenced local variable
+<<<<<<< branch_21
+=======
+  LINK : D:\Даша\Лабораторні\Laboratorna 2.1\Debug\Laboratorna 2.1.exe not found or not built by the last incremental link; performing full link
+>>>>>>> local
   Laboratorna 2.1.vcxproj -> D:\Даша\Лабораторні\Laboratorna 2.1\Debug\Laboratorna 2.1.exe
